@@ -28,7 +28,7 @@ def checkEventCap(allocations, events_data):
 
     eventCapBreached = False
 
-    for i in range(N):
+    for i in range(M):
         if actualEvent[i]>events_data[i][2]:
             eventCapBreached = True 
             break 
