@@ -1,2 +1,2 @@
 # HackRush24Opt
-Important files of HackRush' 24 optimization problem
+This repository contains the problem description of the HackRush'24 Optimization Problem
